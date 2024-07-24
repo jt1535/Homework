@@ -6,5 +6,5 @@
 
 [Importance of Python](https://www.discoverdatascience.org/articles/what-is-python-used-for-why-is-it-important-to-learn/)
 
-[image](https://github.com/user-attachments/assets/d948dba8-6185-4d3f-b3d8-ce49a5710a35)
-
+(https://github.com/user-attachments/assets/d948dba8-6185-4d3f-b3d8-ce49a5710a35)
+It depicts the coding that we will do in this course.
