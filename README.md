@@ -4,4 +4,4 @@
 2. Understand why data analytics is important
 3. Apply information from class towards a capstone project
 
-[https://www.discoverdatascience.org/articles/what-is-python-used-for-why-is-it-important-to-learn/] (Importance of Python)
+[Importance of Python](https://www.discoverdatascience.org/articles/what-is-python-used-for-why-is-it-important-to-learn/)
